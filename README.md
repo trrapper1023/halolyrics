@@ -56,10 +56,10 @@ HALO Lyrics 提供免费的自助安装方式。如果安装过程中遇到困�
 * Halo PixelBar USB 连接问题
 * 软件运行异常与兼容性问题
 
-预约人工技术支持
+### 预约人工技术支持
 
-点击这里填写人工安装与排障预约表单
-[
-](https://docs.google.com/forms/d/e/1FAIpQLScOKQ6-9fi1Ss6o-QltUlK2n6Bu2QlTwVUTyWPOZGVE2PIYoA/viewform)提交预约后，我们将根据你提供的信息联系你，确认具体需求及服务安排。
+[点击这里预约 HALO Lyrics 人工安装与排障](https://docs.google.com/forms/d/e/1FAIpQLScOKQ6-9fi1Ss6o-QltUlK2n6Bu2QlTwVUTyWPOZGVE2PIYoA/viewform)
+
+提交预约后，我们将根据你提供的信息联系你，确认具体需求及服务安排。
 
 人工技术支持属于可选服务，可能产生服务费用；具体费用将在服务开始前确认。
